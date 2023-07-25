@@ -11058,3 +11058,8 @@ html {
 #lock {
   width: 300px;
 }
+
+#resume {
+  background-color: var(--bs-blue);
+  width: 400px;
+}
