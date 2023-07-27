@@ -16,9 +16,9 @@ function Footer() {
             </div>
             <div className="col-lg-4 mb-5 mb-lg-0">
               <h4 className="text-uppercase mb-4">Around the Web</h4>
-              <a target="_blank" className="btn btn-outline-light btn-social mx-1" href="https://github.com/ItzBindi"><i
+              <a target="_blank" rel="noreferrer" className="btn btn-outline-light btn-social mx-1" href="https://github.com/ItzBindi"><i
                   className="fab fa-fw fa-github"></i></a>
-              <a target="_blank" className="btn btn-outline-light btn-social mx-1" href="https://www.instagram.com/itzbindi/"><i
+              <a target="_blank" rel="noreferrer" className="btn btn-outline-light btn-social mx-1" href="https://www.instagram.com/itzbindi/"><i
                   className="fab fa-fw fa-instagram"></i></a>
             </div>
     

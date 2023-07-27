@@ -20,7 +20,7 @@ function Modal3() {
                       <div class="divider-custom-line"></div>
                     </div>
                     <img class="img-fluid rounded mb-5" src="./images/weather-icon.webp" alt="..." />
-                    <p class="mb-4">Explore the world with our Weather Dashboard! Enter any city, and instantly get the current weather and a 5-day forecast at your fingertips. Stay informed and plan ahead with ease. Simple, quick, and accurate weather updates for you. Click <a target="_blank" href="https://itzbindi.github.io/Weather-Dashboard/">here</a> to see it for yourself!
+                    <p class="mb-4">Explore the world with our Weather Dashboard! Enter any city, and instantly get the current weather and a 5-day forecast at your fingertips. Stay informed and plan ahead with ease. Simple, quick, and accurate weather updates for you. Click <a target="_blank" rel="noreferrer" href="https://itzbindi.github.io/Weather-Dashboard/">here</a> to see it for yourself!
                     </p>
                     <button class="btn btn-primary" data-bs-dismiss="modal">
                       <i class="fas fa-xmark fa-fw"></i>
