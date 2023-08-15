@@ -20,6 +20,8 @@ function Footer() {
                   className="fab fa-fw fa-github"></i></a>
               <a target="_blank" rel="noreferrer" className="btn btn-outline-light btn-social mx-1" href="https://www.instagram.com/itzbindi/"><i
                   className="fab fa-fw fa-instagram"></i></a>
+              <a target="_blank" rel="noreferrer" className="btn btn-outline-light btn-social mx-1" href="https://www.linkedin.com/in/suraj-nair-328004288/"><i
+                  className="fab fa-fw fa-linkedin"></i></a>
             </div>
     
             <div className="col-lg-4">
