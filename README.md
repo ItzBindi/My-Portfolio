@@ -12,6 +12,10 @@ A portfolio displaying all my projects and ways to contact me along with my resu
 - [Tests](#test)
 - [Questions](#Questions)
 
+## Screenshots
+![screenshot-2023-08-31-08-31-23](https://github.com/ItzBindi/My-Portfolio/assets/82546293/680b8a06-b820-483c-85a7-d5e3ca4d8808)
+
+
 ## Installation
 Just go the link here 
 
