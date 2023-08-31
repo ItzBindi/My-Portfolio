@@ -2,7 +2,7 @@
 # Portfolio
 
 ## Description
-A portfolio displaying all my projects and ways to contact me along with my resume! 
+A portfolio using React.js displaying all my projects and ways to contact me along with my resume! 
 
 ## Table of Contents
 - [Installation](#Installation)
